@@ -2,7 +2,7 @@
   "name": "discord-link-button",
   "about_url": "https://github.com/your-org/discord-link-button",
   "license": "MIT",
-  "components": [],
+  "component": true,
   "authors": ["ariwaller1"],
   "theme_version": "2.0.0"
 }
